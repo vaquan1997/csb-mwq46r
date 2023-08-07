@@ -1,0 +1,1 @@
+{"version":3,"sources":["src/index.js"],"names":["derp","console","log","toString"],"mappings":";AAAA,IAAIA,EAAO,CAAC,UAAU,WAEtBC,QAAQC,IAAKF,EAAKG,SAAS","file":"src.a454a64f.js","sourceRoot":"..","sourcesContent":["var derp = ['string,','string2'];\n\nconsole.log( derp.toString(' , ') )"]}
